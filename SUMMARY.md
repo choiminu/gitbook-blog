@@ -2,8 +2,8 @@
 
 * [Intro](README.md)
 
-## TIL
+## 알고리즘 <a href="#algorithm" id="algorithm"></a>
 
-* [2024](til/2024/README.md)
-  * [10월](til/2024/10/README.md)
-    * [1일](til/2024/10/1.md)
+* [정렬](algorithm/sort/README.md)
+  * [선택 정렬](algorithm/sort/select-sort.md)
+* [Page](algorithm/page.md)
